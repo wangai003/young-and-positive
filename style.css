@@ -1,0 +1,152 @@
+body {
+  background-color: #ffff; /* light green */
+  color: #2f3f46; /* dark gray */
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #354F52; /* forest green */
+  color: white;
+  padding: 18px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+nav a:hover {
+  background-color: #84a98f; /* yellow */
+  color: black;
+}
+
+main {
+  margin: 20px;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+  color: #354F52; /* forest green */
+}
+
+p {
+  line-height: 1.5;
+}
+
+button {
+  background-color: #84a97f; /* forest green */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2E8B57; /* sea green */
+}
+
+#about {
+  padding: 2rem;
+  background-color: #52796f;
+  margin-bottom: 2rem;
+  box-shadow: 1 4px 8px rgba(0, 0.4, 0.4, 0.1);
+  padding: 4rem;
+}
+
+#species {
+  background-color: #52796f;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0.4, 0.1);
+  padding: 1rem;
+
+}
+
+#leadership {
+  padding: 2rem;
+  background-color: white;
+  margin-bottom: 2rem;
+  box-shadow: 1 4px 8px rgba(0, 0.4, 0.4, 0.1);
+  padding: 4rem;
+
+}
+
+#OurProjects{
+  padding: 2rem;
+  background-color: #52796f;
+  margin-bottom: 2rem;
+  box-shadow: 1 4px 8px rgba(0, 0.4, 0.4, 0.1);
+  padding: 4rem;
+
+}
+
+#ouroffices{
+  padding: 2rem;
+  background-color: white;
+  margin-bottom: 2rem;
+  box-shadow: 1 4px 8px rgba(0, 0.4, 0.4, 0.1);
+  padding: 4rem;
+}
+
+
+
+#about h2 {
+  color: #ffff;
+
+}
+
+#about p {
+  color: #ffff 
+}
+
+#species h2 {
+  color: #ffff;
+
+}
+
+#species p {
+  color: #ffff 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
